@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "loading.mixins",
+  "refmap": "mixins.healthmode.refmap.json",
+  "mixins": [
+    "AccessorCPacketCustomPayload",
+    "AccessorCPacketPlayer",
+    "AccessorKeyBinding",
+    "AccessorRenderManager",
+    "ISPacketPlayerPosLook",
+    "MixinBlock",
+    "MixinGuiNewChat",
+    "MixinEntity",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinBlockRendererDispatcher",
+    "MixinEntityRenderer",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinMovementInputFromOptions",
+    "MixinNetworkManager",
+    "MixinRenderLivingBase",
+    "MixinEntityOtherPlayerMP",
+    "MixinTimer"
+  ],
+  "client": [
+    "MixinGuiMainMenu"
+  ]
+}

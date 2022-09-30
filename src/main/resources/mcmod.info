@@ -1,0 +1,10 @@
+[{
+    "modid": "healthmod",
+    "name": "HealthMod",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "kys.com",
+    "authorList": ["pighax", "cattyn [thanks for base]", "W202"],
+    "screenshots": []
+}]
